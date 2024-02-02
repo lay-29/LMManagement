@@ -1,0 +1,13 @@
+*.pdb
+*.obj
+*.cache
+*.suo
+*.dll
+*.exe
+*.CopyComplete
+*.exe
+*.txt
+Debug/
+Release/
+/Utilities/Utilities/PLCIOPanel/ShareMemory - Copy.cs
+
